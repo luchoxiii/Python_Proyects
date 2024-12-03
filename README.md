@@ -10,6 +10,10 @@
 
 -Image Generator
 
+- Sentiment Analysis
+
+- Audio Book
+
 
 ### Private Proyects:
 
